@@ -1,12 +1,12 @@
 # Sirius Storage Node Onboarding Guide using Docker-Compose Method
 
 This guide has the following sections:
-- [Pre-requisites](#pre-requisites)
+- [Prerequisites](#prerequisites)
 - [Download the onboarding files](#download-the-onboarding-files)
 - [How to run as SDN](#how-to-run-as-sdn)
 - [How to run as SRN](#how-to-run-as-srn)
 - [Note](#note)
-## Pre-requisite
+## Prerequisite
 
 This onboarding method requires `docker` and `docker-compose`.  Please see [Supported platforms](https://docs.docker.com/engine/install/#server) whether your linux platform is supported by docker.
 
